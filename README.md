@@ -5,7 +5,7 @@
 ## Quick Start 🔎
 ### Clone this repository
 ```sh
-git clone https://github.com/Grey-Time/Telethon-Channel-Clone.git
+git clone https://github.com/hotmoon6/Telethon-Channel-Clone.git
 ```
 ```sh
 cd Telethon-Channel-Clone
